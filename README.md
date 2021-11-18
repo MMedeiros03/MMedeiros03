@@ -3,7 +3,7 @@
   ##
 
 - 📚 Eu atualmente estou estudando sobre backend na linguagem Python e Java
-- 🌱 Fazendo curso profissionalizando em Python e Django, pelo Entra21
+- 🌱 Em Outubro finalizei um curso profissionalizando em Python e Django, pelo Entra21
 - 👨‍🎓 Estou cursando o 3º ano do Ensino Médio Técnico no Instituto Federal de Santa Catarina 
 - 😄 Pronouns: Ele/dele
 <div>
