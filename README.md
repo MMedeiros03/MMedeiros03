@@ -1,11 +1,10 @@
 ### Olá!! Me chamo Matheus Medeiros 👋
 
   ##
-
-- 📚 Eu atualmente estou estudando sobre backend na linguagem Python e Java
-- 🌱 Em Outubro finalizei um curso profissionalizando em Python e Django, pelo Entra21
-- 👨‍🎓 Estou cursando o 3º ano do Ensino Médio Técnico no Instituto Federal de Santa Catarina 
-- 😄 Pronouns: Ele/dele
+- 📚 Atualmente estou estudando sobre backend na linguagem Java;
+- 🌱 Em Outubro de 2021,finalizei um curso profissionalizando em Python e Django, pelo Entra21;
+- 👨‍🎓 Sou formado pelo Instituto Federal de Santa Catarina, como técnico em informática; 
+- 💼 Trabalho como desenvolvedor junior na Empresa NBW DIGITAL. 
 <div>
   <a href="https://github.com/MMedeiros03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMedeiros03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
