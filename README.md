@@ -7,7 +7,7 @@
 - 💼 Trabalho como desenvolvedor junior na Empresa NBW DIGITAL. 
 <div>
   <a href="https://github.com/MMedeiros03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMedeiros03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMedeiros03&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
