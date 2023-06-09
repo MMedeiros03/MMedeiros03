@@ -4,7 +4,7 @@
 - 📚 Atualmente estou estudando sobre backend na linguagem Java;
 - 🌱 Em Outubro de 2021,finalizei um curso profissionalizando em Python e Django, pelo Entra21;
 - 👨‍🎓 Sou formado pelo Instituto Federal de Santa Catarina, como técnico em informática; 
-- 💼 Trabalho como desenvolvedor junior na Empresa NBW DIGITAL. 
+- 💼 Trabalho como desenvolvedor junior na Empresa Benner Sistemas. 
 <div>
   <a href="https://github.com/MMedeiros03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMedeiros03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
