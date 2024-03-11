@@ -1,7 +1,7 @@
 ### Olá!! Me chamo Matheus Medeiros 👋
 
   ##
-- 📚 Atualmente estou estudando sobre backend na linguagem Java;
+- 📚 Atualmente sou Desenvolvedor C# Junior;
 - 🌱 Em Outubro de 2021,finalizei um curso profissionalizando em Python e Django, pelo Entra21;
 - 👨‍🎓 Sou formado pelo Instituto Federal de Santa Catarina, como técnico em informática; 
 - 💼 Trabalho como desenvolvedor junior na Empresa Benner Sistemas. 
