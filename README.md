@@ -2,7 +2,6 @@
 
   ##
 - 📚 Atualmente sou Desenvolvedor Analista Pleno;
-- 🌱 Em Outubro de 2021,finalizei um curso profissionalizando em Python e Django, pelo Entra21;
 - 👨‍🎓 Sou formado pelo Instituto Federal de Santa Catarina, como técnico em informática; 
 - 💼 Trabalho como desenvolvedor analista na Empresa BluData. 
 <div>
