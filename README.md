@@ -18,7 +18,7 @@
   <img align="center" alt="Medeiros-JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Medeiros-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Medeiros-PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="Medeiros-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Medeiros-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
 </div>
   
   ##
